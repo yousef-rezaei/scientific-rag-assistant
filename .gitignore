@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Local vector database and model data
+.local/
+storage/
+
+# Local test and tool caches
+.pytest_cache/
+.ruff_cache/
