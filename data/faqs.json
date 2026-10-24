@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "faq-001",
+    "question": "What is Retrieval-Augmented Generation?",
+    "answer": "RAG retrieves relevant external information and provides it to a language model as context for generating an answer."
+  },
+  {
+    "id": "faq-002",
+    "question": "What is semantic search?",
+    "answer": "Semantic search uses embeddings to retrieve information based on meaning rather than only exact keyword matches."
+  },
+  {
+    "id": "faq-003",
+    "question": "What is a vector embedding?",
+    "answer": "An embedding is a numerical vector representing information such as text in a mathematical space."
+  },
+  {
+    "id": "faq-004",
+    "question": "What is hybrid search?",
+    "answer": "Hybrid search combines lexical retrieval, such as BM25, with semantic vector retrieval."
+  },
+  {
+    "id": "faq-005",
+    "question": "What is PubChem?",
+    "answer": "PubChem is a public database of chemical information maintained by the US National Library of Medicine."
+  },
+  {
+    "id": "faq-006",
+    "question": "What is data normalization?",
+    "answer": "Data normalization standardizes data into consistent formats or representations to support reliable processing and matching."
+  }
+]
